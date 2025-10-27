@@ -1,0 +1,29 @@
+leftnav:
+- identifier: 78062c81-89b8-10d2-2495-ab0be403047c
+  name: Syllabus
+  pageRef: /pages/syllabus
+  weight: 10
+- identifier: b66ae8b1-c590-a884-13fe-7759255d6370
+  name: Calendar
+  pageRef: /pages/calendar
+  weight: 20
+- identifier: 30787ae8-b1e4-3e42-5bf8-855cb2d63a54
+  name: Instructor Insights
+  pageRef: /pages/instructor-insights
+  weight: 30
+- identifier: 08a95770-0cf7-3142-60e0-b44e508eaf76
+  name: Course Notes
+  pageRef: /pages/course-notes
+  weight: 40
+- identifier: b833bafb-be2d-1965-1e34-ce93bc1dbf52
+  name: Recitations
+  pageRef: /pages/recitations
+  weight: 50
+- identifier: ecbe9504-c374-c172-32bc-265c6e47237b
+  name: Assignments
+  pageRef: /pages/assignments
+  weight: 60
+- identifier: 392dc9b4-c4b5-4c7d-f47a-ccb290f318f9
+  name: Quizzes
+  pageRef: /pages/quizzes
+  weight: 70
